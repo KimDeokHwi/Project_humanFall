@@ -1,0 +1,6 @@
+Lib/
+Scripts/
+Include/
+yolov5/
+share/
+pyvenv.cfg
