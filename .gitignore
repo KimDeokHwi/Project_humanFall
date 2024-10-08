@@ -4,3 +4,4 @@ Include/
 yolov5/
 share/
 pyvenv.cfg
+yolov8l.pt
