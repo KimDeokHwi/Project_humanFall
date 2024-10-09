@@ -5,8 +5,10 @@ data: D:\project\data\src\human_fall.yaml
 epochs: 100
 time: null
 patience: 30
-batch: 8
-imgsz: 224
+batch: 32
+imgsz:
+- 960
+- 540
 save: true
 save_period: -1
 cache: false
