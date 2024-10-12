@@ -1,0 +1,6 @@
+names:
+- N
+- Y
+nc: 2
+train: D:\project\data\src\human_fall\train\images
+val: D:\project\data\src\human_fall\valid\images

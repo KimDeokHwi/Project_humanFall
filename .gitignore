@@ -5,3 +5,5 @@ yolov5/
 share/
 pyvenv.cfg
 yolov8l.pt
+yolov8n.pt
+yolov5su.pt
