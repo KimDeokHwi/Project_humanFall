@@ -1,0 +1,6 @@
+names:
+  0: "\uBE44\uB099\uC0C1"
+  1: "\uB099\uC0C1"
+nc: 2
+train: D:\human_fall\data\train\images
+val: D:\human_fall\data\valid\images
