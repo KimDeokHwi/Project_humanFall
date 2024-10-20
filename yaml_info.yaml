@@ -1,6 +1,0 @@
-names:
-  0: Non_Fall
-  1: Fall
-nc: 2
-train: D:\human_fall\dataset\train\images
-val: D:\human_fall\dataset\val\images
