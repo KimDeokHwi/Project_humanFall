@@ -1,1 +1,2 @@
 yolo+mediapipe_outputs/*.mp4 filter=lfs diff=lfs merge=lfs -text
+GRU/GRU_training.ipynb filter=lfs diff=lfs merge=lfs -text
