@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Fall_pfoject%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Fall_project%20&fontSize=90)
 
 # **🚑낙상 감지 프로젝트**
 
