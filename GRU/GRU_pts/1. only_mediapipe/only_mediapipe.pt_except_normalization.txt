@@ -1,0 +1,10 @@
+Train F1: 0.9372
+Val F1: 0.9353
+Train Confusion Matrix:
+[[87913     4  3592]
+ [  644     6  1496]
+ [ 2042     7 43562]]
+Val Confusion Matrix:
+[[21811     1   866]
+ [  172     4   378]
+ [  587     1 10997]]
