@@ -19,9 +19,11 @@
 | 사용 언어     | python 3.10.x                     |
 | 개발 도구     | Visual Studio Code, Colab, Jupyter Notebook |
 | Libs          | Pytorch 2.2.2                     |
-|               | YOLOv8s                           |
+|               | Ultralytics 8.3.5
+|               | OpenCV 4.10.0.84                 |
 |               | Mediapipe 0.10.14                 |
 |               | Numpy 1.26                        |
+|               | Scikit-learn 1.5.2
 |dataset        |AIHub[낙상사고 위험동작 영상-센서 쌍 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71641)|
 </div>
 
