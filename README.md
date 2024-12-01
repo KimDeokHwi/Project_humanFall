@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Fall_project%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Fall_Detection%20&fontSize=90)
 
 ## **🚑낙상 감지 프로젝트**
 
@@ -19,7 +19,7 @@
 | 사용 언어     | python 3.10.x                     |
 | 개발 도구     | Visual Studio Code, Colab, Jupyter Notebook |
 | Libs          | Pytorch 2.2.2                     |
-|               | Ultralytics 8.3.5
+|               | Ultralytics 8.3.5                 |
 |               | OpenCV 4.10.0.84                 |
 |               | Mediapipe 0.10.14                 |
 |               | Numpy 1.26                        |
