@@ -41,11 +41,25 @@
 
 📁 Frameworks
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)<img src="https://img.shields.io/badge/Mediapipe-0097A7?style=for-the-badge&logo=white&logoColor=white">![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)<img src="https://img.shields.io/badge/Ultralytics-512BD4?style=for-the-badge&logo=white&logoColor=white">
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+<img src="https://img.shields.io/badge/Mediapipe-0097A7?style=for-the-badge&logo=white&logoColor=white">
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+<img src="https://img.shields.io/badge/Ultralytics-512BD4?style=for-the-badge&logo=white&logoColor=white">
 
 🛠️ Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 💾 dataset
 
@@ -54,25 +68,9 @@ AIHub[낙상사고 위험동작 영상-센서 쌍 데이터](https://www.aihub.o
 
 -------------------------------------------------------
 ## 개요📌
-> 아이디어 회의 및 주제 선정
-<div align="center">
+
+0. 아이디어 회의 및 주제 선정
  
-• *Computer Vision 활용* 
-
-• *상업성*  
-
-• *독창성*  
-
-• *발전 가능성*  
-
-• *정확성*
-
-### 위 항목들을 토대로 회의를 거쳐 '실시간 낙상 감지' 주제 선정
-</div>
-
--------------------------------------------------------
-> Timeline⌚️
-
 1. Data preprocessing
 
 2. YOLOv8 모델로 training
@@ -83,8 +81,7 @@ AIHub[낙상사고 위험동작 영상-센서 쌍 데이터](https://www.aihub.o
 
 5. 결과 비교
 
---------------------------------------------------------
-
+------------------------------------
 
 > members✌️
 ### -🙋‍♂️김덕휘
