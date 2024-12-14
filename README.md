@@ -81,6 +81,8 @@ AIHub[낙상사고 위험동작 영상-센서 쌍 데이터](https://www.aihub.o
 
 5. 결과 비교
 
+* more info : [Notion](https://www.notion.so/Project-Fall-Detection-152b67746f2780b6bd58ee8e576f047e)
+
 ------------------------------------
 
 > members✌️
